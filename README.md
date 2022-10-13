@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walesho1
 - 👀 I’m interested in developing software.
-- 🌱 I’m currently learning software engineer
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on on all aspects.
 - 📫 How to reach me: waleshogbaike@yahoo.com or (twitter) @egbablood01
 
